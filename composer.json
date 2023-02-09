@@ -1,0 +1,11 @@
+{
+    "name": "nuevenet/scripts",
+    "description": "Main scripts",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nuevenet\\Scripts\\": "scripts/"
+        }
+    },
+    "license": "MIT"
+}
